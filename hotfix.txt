@@ -1,3 +1,4 @@
 new file in hotfix branch, master no change
 one file gonna be conflict when merge, try to make some changes too.
 some other hotfix.
+we don't know there is a merge in here, but we try it first.
